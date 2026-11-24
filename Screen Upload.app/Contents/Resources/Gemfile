@@ -1,1 +1,5 @@
-/Users/kenneth/Dropbox/dev/azure/screenupload/Gemfile
+
+gem 'rb-fsevent'
+gem 'terminal-notifier'
+
+source :rubygems
